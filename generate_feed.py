@@ -23,7 +23,7 @@ fg.language("sv")
 
 seen = set()
 
-for link in soup.find_all("a", href=True):
+for link in reversed(soup.find_all("a", href=True)):
     href = urljoin(SOURCE_URL, link["href"])
 
     if "/nyheter/" not in href:
@@ -33,6 +33,9 @@ for link in soup.find_all("a", href=True):
         continue
 
     title = link.get_text(" ", strip=True)
+    
+    if title == "Hoppa till innehåll":
+        continue
 
     if not title or len(title) < 10:
         continue
