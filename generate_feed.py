@@ -1,3 +1,4 @@
+import mimetypes
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
@@ -45,12 +46,15 @@ for card in reversed(cards):
         entry.description(description.get_text(" ", strip=True))
 
     if image and image.get("src"):
+        image_url = image["src"]
+        mime_type, _ = mimetypes.guess_type(image_url)
+    
         entry.enclosure(
-            image["src"],
+            image_url,
             0,
-            "image/jpeg"
+            mime_type or "image/jpeg"
         )
-
+        
 fg.rss_file(OUTPUT_FILE, pretty=True)
 
 print(f"Created {OUTPUT_FILE} with {len(cards)} articles.")
