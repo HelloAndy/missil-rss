@@ -28,6 +28,7 @@ cards = soup.select(".post-card")
 for card in reversed(cards):
     link = card.select_one(".post-card__title a")
     description = card.select_one(".post-card__subtitle")
+    image = card.select_one(".post-card__image")
 
     if not link:
         continue
@@ -42,6 +43,13 @@ for card in reversed(cards):
 
     if description:
         entry.description(description.get_text(" ", strip=True))
+
+    if image and image.get("src"):
+        entry.enclosure(
+            image["src"],
+            0,
+            "image/jpeg"
+        )
 
 fg.rss_file(OUTPUT_FILE, pretty=True)
 
