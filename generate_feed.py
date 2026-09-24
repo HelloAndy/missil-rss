@@ -2,8 +2,9 @@ import mimetypes
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
-from urllib.parse import urljoin
+from urllib.parse import urljoin, quote
 
+FEED_URL = "https://helloandy.github.io/missil-rss/feed.xml"
 SOURCE_URL = "https://missil.se/nyheter/"
 OUTPUT_FILE = "feed.xml"
 
@@ -19,6 +20,7 @@ soup = BeautifulSoup(response.text, "html.parser")
 fg = FeedGenerator()
 fg.title("MISSIL")
 fg.link(href=SOURCE_URL, rel="alternate")
+fg.link(href=FEED_URL, rel="self")
 fg.description("Nyheter från MISSIL")
 fg.language("sv")
 
@@ -46,7 +48,7 @@ for card in reversed(cards):
         entry.description(description.get_text(" ", strip=True))
 
     if image and image.get("src"):
-        image_url = image["src"]
+        image_url = quote(image["src"], safe=":/?=&%")
         mime_type, _ = mimetypes.guess_type(image_url)
     
         entry.enclosure(
