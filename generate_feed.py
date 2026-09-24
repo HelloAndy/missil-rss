@@ -44,18 +44,28 @@ for card in reversed(cards):
     entry.title(title)
     entry.link(href=href)
 
+    description_text = ""
     if description:
-        entry.description(description.get_text(" ", strip=True))
-
+        description_text = description.get_text(" ", strip=True)
+    
     if image and image.get("src"):
         image_url = quote(image["src"], safe=":/?=&%")
         mime_type, _ = mimetypes.guess_type(image_url)
     
+        # Visa bilden som en del av artikelinnehållet.
+        entry.description(
+            f'<p><img src="{image_url}" alt=""></p>'
+            f'<p>{description_text}</p>'
+        )
+    
+        # Behåll även bilden som RSS enclosure.
         entry.enclosure(
             image_url,
             0,
             mime_type or "image/jpeg"
         )
+    elif description_text:
+        entry.description(description_text)
         
 fg.rss_file(OUTPUT_FILE, pretty=True)
 
