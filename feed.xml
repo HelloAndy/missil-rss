@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sv</language>
-    <lastBuildDate>Fri, 25 Sep 2026 22:43:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 01:18:20 +0000</lastBuildDate>
+    <item>
+      <title>Vad vill du att vi ska prioritera härnäst?</title>
+      <link>https://missil.se/nyheter/vad-vill-du-att-vi-ska-prioritera-harnast/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/uffe3-1.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;I vår roadmap har du kanske sett hur vi spaltat upp och spridit ut de delar av MISSIL.se som vi arbetar med och i vilken ordning vi hade tänkt släppa...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/vad-vill-du-att-vi-ska-prioritera-harnast/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/09/uffe3-1.jpg" length="0" type="image/jpeg"/>
+    </item>
     <item>
       <title>Ubisoft arbetade på en Zelda-spinoff med Ganon i huvudrollen</title>
       <link>https://missil.se/nyheter/ubisoft-arbetade-pa-en-zelda-spinoff-med-ganon-i-huvudrollen/</link>
@@ -337,13 +344,6 @@
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/halo-keyart-2-300x169.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Tidigare idag kunde vi rapportera om att Microsoft fortsätter sin enorma omstrukturering. Nu är det bekräftat att Xbox tar bort 268 tjänster inom...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/microsoft-fortsatter-att-omstrukturera-activision-utvecklar-nasta-halo/</guid>
       <enclosure url="https://missil.se/wp-content/uploads/2026/09/halo-keyart-2-300x169.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Corsair har visat upp nya streaming-micken Voxara</title>
-      <link>https://missil.se/nyheter/corsair-har-visat-upp-nya-streaming-micken-voxara/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/Skarmavbild-2026-09-22-kl.-16.40.34.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Det finns som vi alla vet en veritabel uppsjö idag av kvalitativa USB-mikrtofoner för den aktiva streamern eller den som spelar in en podcast och...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/corsair-har-visat-upp-nya-streaming-micken-voxara/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/09/Skarmavbild-2026-09-22-kl.-16.40.34.png" length="0" type="image/png"/>
     </item>
   </channel>
 </rss>
