@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sv</language>
-    <lastBuildDate>Sat, 26 Sep 2026 16:03:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 19:18:45 +0000</lastBuildDate>
+    <item>
+      <title>Quake Champions är inte längre gratis att spela</title>
+      <link>https://missil.se/nyheter/quake-champions-ar-inte-langre-gratis-att-spela/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/quake_champions_beta-1200x675-1.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Quake Champions har funnits ute i ett par år och har varit gratis att spela på alla plattformar. Med uppdatering 1.31 börjar Id Software och Bethesda...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/quake-champions-ar-inte-langre-gratis-att-spela/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/09/quake_champions_beta-1200x675-1.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Robert Eggers Werwulf visar upp sig i ny stämningsfull trailer</title>
+      <link>https://missil.se/nyheter/robert-eggers-werwulf-visar-upp-sig-i-ny-stamningsfull-trailer/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/IMG_7335.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Nosferatu-regissören Robert Eggers är snart tillbaka på bioduken med en ny film. Den heter Werwulf och verkar precis som Eggers tidigare produktioner...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/robert-eggers-werwulf-visar-upp-sig-i-ny-stamningsfull-trailer/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/09/IMG_7335.png" length="0" type="image/png"/>
+    </item>
     <item>
       <title>PC-spelandet har mer än fördubblats i Japan på fyra år</title>
       <link>https://missil.se/nyheter/pc-spelandet-har-mer-an-fordubblats-i-japan/</link>
@@ -330,20 +344,6 @@
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/fokkermissil.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Precis som vi varit tydliga med inte minst i vårt manifest, är nya MISSIL ett sätt för oss att bygga den spelcommunity som vi alltid velat göra och...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/var-nya-aktivitets-feed-har-nu-rullats-ut/</guid>
       <enclosure url="https://missil.se/wp-content/uploads/2026/09/fokkermissil.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Sonic Team jobbar på nytt med ”spelmekanik utöver det vanliga”</title>
-      <link>https://missil.se/nyheter/sonic-team-jobbar-pa-nytt-spel-med-spelmekanik-utover-det-vanliga/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/05/f2bc84509d92c95a8ad22caa8c8afa06.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Tidigare idag berättade vi att det var nära att hela Sonic-serien lades ner, men blev räddad av filmen från 2020. Frukten av det hela är så klart att...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/sonic-team-jobbar-pa-nytt-spel-med-spelmekanik-utover-det-vanliga/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/05/f2bc84509d92c95a8ad22caa8c8afa06.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Darkwing Duck kommer tillbaka i ny serie på Disney Plus</title>
-      <link>https://missil.se/nyheter/darkwing-duck-kommer-tillbaka-i-ny-serie-pa-disney-plus/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/IMG_7301.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;35 år efter att Disneys älskade superhjälteserie Darkwing Duck hade premiär kommer nu äntligen en fortsättning. Det blev under gårdagen officiellt...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/darkwing-duck-kommer-tillbaka-i-ny-serie-pa-disney-plus/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/09/IMG_7301.png" length="0" type="image/png"/>
     </item>
   </channel>
 </rss>
