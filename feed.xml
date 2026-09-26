@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sv</language>
-    <lastBuildDate>Sat, 26 Sep 2026 01:18:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 06:30:07 +0000</lastBuildDate>
+    <item>
+      <title>Ännu en ny Saw-film är på gång</title>
+      <link>https://missil.se/nyheter/annu-en-ny-saw-film-ar-pa-gang/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/IMG_7325.jpeg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Lionsgate gick under natten ut med nyheten om att ytterligare en installation i den rysligt populära skräckföljetongen Saw är på gång. Regissör till...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/annu-en-ny-saw-film-ar-pa-gang/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/09/IMG_7325.jpeg" length="0" type="image/jpeg"/>
+    </item>
     <item>
       <title>Vad vill du att vi ska prioritera härnäst?</title>
       <link>https://missil.se/nyheter/vad-vill-du-att-vi-ska-prioritera-harnast/</link>
@@ -337,13 +344,6 @@
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/The_Witcher_3_Wild_Hunt_Geralt_Igni-RGB-1.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;I taxin, i trappen, i hissen, i hallen – ja var du vill egentligen. CD Projekt Red gick på dess Japanska sociala medie-konton nyligen ut med...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/snart-kan-du-spela-witcher-3-remastered-precis-vartsomhelst/</guid>
       <enclosure url="https://missil.se/wp-content/uploads/2026/09/The_Witcher_3_Wild_Hunt_Geralt_Igni-RGB-1.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Microsoft fortsätter att omstrukturera: Activision utvecklar nästa Halo</title>
-      <link>https://missil.se/nyheter/microsoft-fortsatter-att-omstrukturera-activision-utvecklar-nasta-halo/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/halo-keyart-2-300x169.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Tidigare idag kunde vi rapportera om att Microsoft fortsätter sin enorma omstrukturering. Nu är det bekräftat att Xbox tar bort 268 tjänster inom...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/microsoft-fortsatter-att-omstrukturera-activision-utvecklar-nasta-halo/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/09/halo-keyart-2-300x169.jpg" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
