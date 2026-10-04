@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sv</language>
-    <lastBuildDate>Sat, 03 Oct 2026 23:36:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:04:17 +0000</lastBuildDate>
+    <item>
+      <title>Gran Turismo firar 30 år med gratisuppdateringen Spec IV</title>
+      <link>https://missil.se/nyheter/gran-turismo-firar-30-ar-med-gratisuppdateringen-spec-iv/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/Skarmavbild-2026-10-03-kl.-22.46.47.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Det är, om vi ska vara petiga här (och det ska vi väl?) inte förrän nästa år som Gran Turismo som spelserie firar 30 år, men ja – Polyphony är...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/gran-turismo-firar-30-ar-med-gratisuppdateringen-spec-iv/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/10/Skarmavbild-2026-10-03-kl.-22.46.47.png" length="0" type="image/png"/>
+    </item>
     <item>
       <title>Här kommer några nya bilder från GTA VI</title>
       <link>https://missil.se/nyheter/har-kommer-nagra-nya-bilder-fran-gta-vi/</link>
@@ -337,13 +344,6 @@
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/bioshock-2-splash.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Francis Lawrence, regissören bakom Hunger Games-filmerna, jobbar för fulla muggar med pre-produktions-bestyren inför filmatiseringen av Ken Levines...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/guillermo-del-toro-om-bioshock-filmen-ett-mardromsprojekt/</guid>
       <enclosure url="https://missil.se/wp-content/uploads/2026/09/bioshock-2-splash.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Schwarzenegger spelar jultomten i kommande familjefilm</title>
-      <link>https://missil.se/nyheter/arnold-schwarzenegger-visar-upp-sig-som-jultomten-i-kommande-familjefilm/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/Skarmavbild-2026-09-30-kl.-21.15.31.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Amazon släppte tidigare idag den första trailern till deras kommande julfilm The Man with the Bag där gamla actionhjälten Arnold Schwarzenegger...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/arnold-schwarzenegger-visar-upp-sig-som-jultomten-i-kommande-familjefilm/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/09/Skarmavbild-2026-09-30-kl.-21.15.31.png" length="0" type="image/png"/>
     </item>
   </channel>
 </rss>
