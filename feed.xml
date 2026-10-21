@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sv</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:52:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:18:10 +0000</lastBuildDate>
+    <item>
+      <title>FSR till Xbox – Series S och X får AMD:s AI-baserade uppskalningsteknik</title>
+      <link>https://missil.se/nyheter/fsr-till-xbox-series-s-och-x-far-amds-ai-baserade-uppskalningsteknik/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/xxxboxxdosan-768x569.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Fem år efter lanseringen av Xbox Series X och S finns det tydligen fortfarande möjlighet att pressa mer prestanda ur Microsofts konsoler. AMD och...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/fsr-till-xbox-series-s-och-x-far-amds-ai-baserade-uppskalningsteknik/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/09/xxxboxxdosan-768x569.webp" length="0" type="image/webp"/>
+    </item>
     <item>
       <title>Xbox Helix kan komma att kosta 20 000 kronor</title>
       <link>https://missil.se/nyheter/xbox-helix-kan-komma-att-kosta-20-000-kronor/</link>
@@ -115,7 +122,7 @@
       <enclosure url="https://missil.se/wp-content/uploads/2026/10/sc78ex-768x432.webp" length="0" type="image/webp"/>
     </item>
     <item>
-      <title>PS6 kan bli snordyr – bara minnet uppges kosta över 680 dollar</title>
+      <title>Playstation 6 kan bli snordyr – bara minnet uppges kosta över 680 dollar</title>
       <link>https://missil.se/nyheter/ps6-kan-bli-dyr-minnet-ensamt-uppges-kosta-over-680-dollar/</link>
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/kratos-looking-sad-in-god-of-war-ragnarok-768x518.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Playstation 6 är inte ens officiellt utannonserad, men prisdiskussionen är redan i full gång. Enligt den kända läckaren Kepler_L2 kostar RAM-minnet...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/ps6-kan-bli-dyr-minnet-ensamt-uppges-kosta-over-680-dollar/</guid>
@@ -337,13 +344,6 @@
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/shrek2-768x432.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Det verkar som att träsktrollet är på väg tillbaka till spelvärlden. En sida på Microsoft Store publicerades i förtid och avslöjade Shrek 2...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/trasktrollet-ar-tillbaka-shrek-2-ateruppstar-med-en-remaster/</guid>
       <enclosure url="https://missil.se/wp-content/uploads/2026/10/shrek2-768x432.webp" length="0" type="image/webp"/>
-    </item>
-    <item>
-      <title>Xbox undersöker återgång till exklusiva spel – Minecraft kan påverkas</title>
-      <link>https://missil.se/nyheter/xbox-undersoker-atergang-till-exklusiva-spel-minecraft-kan-paverkas/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/09/Skarmavbild-2026-09-30-kl.-20.53.49-768x469.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Microsoft och Xbox verkar ännu en gång fundera på hur man ska hantera sin roll som konsoltillverkare, och vad man egentligen ska göra med alla...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/xbox-undersoker-atergang-till-exklusiva-spel-minecraft-kan-paverkas/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/09/Skarmavbild-2026-09-30-kl.-20.53.49-768x469.webp" length="0" type="image/webp"/>
     </item>
   </channel>
 </rss>
