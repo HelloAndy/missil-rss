@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sv</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:15:11 +0000</lastBuildDate>
+    <item>
+      <title>Kika in den nya Avengers: Doomsday-trailern</title>
+      <link>https://missil.se/nyheter/marvel-har-tappat-rakningen-pa-sina-captain-america-i-ny-doomsday-trailer/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/Skarmavbild-2026-10-25-kl.-16.38.34-768x597.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Det börjar bli lite trångt nu, bakom den där stjärnprydda skölden. Marvel har släppt ett nytt klipp från kommande Avengers: Doomsday och den här...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/marvel-har-tappat-rakningen-pa-sina-captain-america-i-ny-doomsday-trailer/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/10/Skarmavbild-2026-10-25-kl.-16.38.34-768x597.webp" length="0" type="image/webp"/>
+    </item>
     <item>
       <title>Capcoms dataintrång drabbade fler än 11 miljoner användare</title>
       <link>https://missil.se/nyheter/capcom-id-dataintrang-drabbade-fler-an-11-miljoner-anvandare/</link>
@@ -337,13 +344,6 @@
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/MV5BYWMyNDNkMjMtNGY5Ni00M2RmLWEyNmMtZjZhNGFiMGJiZjg5XkEyXkFqcGc%40._V1_-768x478.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Jag älskar Idris Elba. Är väldigt förtjust i välgjord science-fiction. Avgudar en riktigt nervig och svettig överlevnadsthriller. Förutsättningarna...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/spana-in-den-forsta-trailern-till-idris-elbas-nya-sci-firulle/</guid>
       <enclosure url="https://missil.se/wp-content/uploads/2026/10/MV5BYWMyNDNkMjMtNGY5Ni00M2RmLWEyNmMtZjZhNGFiMGJiZjg5XkEyXkFqcGc%40._V1_-768x478.webp" length="0" type="image/webp"/>
-    </item>
-    <item>
-      <title>Nästan 7 miljoner förbokade exemplar av GTA VI – hittills</title>
-      <link>https://missil.se/nyheter/nastan-7-miljoner-forbokade-exemplar-av-gta-vi-hittills/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/Skarmavbild-2026-10-03-kl.-20.28.21-768x540.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Grand Theft Auto VI har förbeställts digitalt i uppskattningsvis 6,45 miljoner exemplar, runt sex miljarder kronor (!) i intäkter alltså. Siffrorna...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/nastan-7-miljoner-forbokade-exemplar-av-gta-vi-hittills/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/10/Skarmavbild-2026-10-03-kl.-20.28.21-768x540.webp" length="0" type="image/webp"/>
     </item>
   </channel>
 </rss>
