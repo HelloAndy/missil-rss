@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sv</language>
-    <lastBuildDate>Mon, 26 Oct 2026 01:34:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:34:47 +0000</lastBuildDate>
+    <item>
+      <title>Lara Croft fyller 30, det firas med ny trailer</title>
+      <link>https://missil.se/nyheter/lara-croft-fyller-30-det-firas-med-ny-trailer/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/sc151n5-768x432.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Crystal Dynamics och Flying Wild Hog har visat upp en ny trailer för Tomb Raider: Legacy of Atlantis. Det är såklart en remake av det allra första...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/lara-croft-fyller-30-det-firas-med-ny-trailer/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/10/sc151n5-768x432.webp" length="0" type="image/webp"/>
+    </item>
     <item>
       <title>Clair Obscur: Expedition 33 har sålts i 8,7 miljoner exemplar</title>
       <link>https://missil.se/nyheter/clair-obscur-expedition-33-har-salts-i-87-miljoner-exemplar/</link>
@@ -337,13 +344,6 @@
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/LskK2gdXrbrvP9uOVhGKKNMg-768x432.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Extremsportspelet Riders Republic fyller fem år och har sedan starten krävt konstant uppkoppling till internet för att fungera, men i samband med...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/riders-republic-blir-spelbart-offline-fem-ar-efter-lanseringen/</guid>
       <enclosure url="https://missil.se/wp-content/uploads/2026/10/LskK2gdXrbrvP9uOVhGKKNMg-768x432.webp" length="0" type="image/webp"/>
-    </item>
-    <item>
-      <title>EA stänger ner Bioware, nya Mass Effect läggs ned</title>
-      <link>https://missil.se/nyheter/ea-stanger-ner-bioware-nya-mass-effect-laggs-ned/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/n7-768x450.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Vi kunde tidigare idag konstatera att över 10 000 (!) utvecklare världen över blivit av med jobbat trots att de senaste 12 månaderna varit de...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/ea-stanger-ner-bioware-nya-mass-effect-laggs-ned/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/10/n7-768x450.webp" length="0" type="image/webp"/>
     </item>
   </channel>
 </rss>
