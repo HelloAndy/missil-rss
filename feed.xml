@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sv</language>
-    <lastBuildDate>Fri, 30 Oct 2026 23:57:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:20:02 +0000</lastBuildDate>
+    <item>
+      <title>ChatGPT-bossen tycker att du ska ge fan i att köpa RAM-minne</title>
+      <link>https://missil.se/nyheter/chatgpt-bossen-tycker-att-du-ska-ge-fan-i-att-kopa-ram-minne/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/dv_web_D180001274138869-768x512.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Att AI-bubblan är på god väg att svälja hela techindustrin tror jag inte undgått någon och även om vi alla ser massa fördelar med AI som...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/chatgpt-bossen-tycker-att-du-ska-ge-fan-i-att-kopa-ram-minne/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/10/dv_web_D180001274138869-768x512.webp" length="0" type="image/webp"/>
+    </item>
     <item>
       <title>EA stängde Bioware och lade ned Mass Effect för Star Wars skull</title>
       <link>https://missil.se/nyheter/ea-stangde-bioware-och-lade-ned-mass-effect-for-star-wars-skull/</link>
@@ -337,13 +344,6 @@
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/06/mega-10-1787856672033-scaled-1-768x432.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Att kommande Grand Theft Auto VI skulle krävs en himla massa hårddiskutrymme har vi såklart alla räknat kallt med. Att bygga en spelvärld mer än...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/gta-vi-filstorleken-avslojad-spelet-ar-bisarrt-stort/</guid>
       <enclosure url="https://missil.se/wp-content/uploads/2026/06/mega-10-1787856672033-scaled-1-768x432.webp" length="0" type="image/webp"/>
-    </item>
-    <item>
-      <title>Dune: Part Three visar upp sig i en sista trailer inför premiären</title>
-      <link>https://missil.se/nyheter/dune-part-three-visar-upp-sig-i-en-sista-trailer-infor-premiaren/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/Skarmavbild-2026-10-27-kl.-19.43.14-768x410.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Den närmar sig med stormsteg. Premiären för Denis Villeneuves hett efterlängtade avslutning på Dune-trilogin baserad på Frank Herberts bok Dune...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/dune-part-three-visar-upp-sig-i-en-sista-trailer-infor-premiaren/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/10/Skarmavbild-2026-10-27-kl.-19.43.14-768x410.webp" length="0" type="image/webp"/>
     </item>
   </channel>
 </rss>
