@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sv</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:46:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:17:04 +0000</lastBuildDate>
+    <item>
+      <title>Nintendo tar bort möjligheten att logga in med Apple och Google</title>
+      <link>https://missil.se/nyheter/nintendo-tar-bort-mojligheten-att-logga-in-med-apple-och-google/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/MarioFireTheme-768x192.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Om du använder antingen ditt Apple- eller Googlekonto för att logga in på din Nintendo-konsol eller webbsida kommer du snart behöva tänka om. Från...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/nintendo-tar-bort-mojligheten-att-logga-in-med-apple-och-google/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/10/MarioFireTheme-768x192.webp" length="0" type="image/webp"/>
+    </item>
     <item>
       <title>Playstation 5 har sålts i mer än 100 miljoner exemplar</title>
       <link>https://missil.se/nyheter/playstation-5-passerar-100-miljoner-exemplar/</link>
@@ -115,7 +122,7 @@
       <enclosure url="https://missil.se/wp-content/uploads/2026/11/Marathon_Symbiosis_Destroyer_Art_FULL_3840x2160-768x432.webp" length="0" type="image/webp"/>
     </item>
     <item>
-      <title>GTA VI på PS5 Pro erbjuder ray tracing-skuggor</title>
+      <title>GTA VI på Playstation 5 Pro erbjuder ray tracing-skuggor</title>
       <link>https://missil.se/nyheter/gta-vi-pa-ps5-pro-erbjuder-ray-tracing-skuggor/</link>
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/Vice_City_04-1-768x514.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Till många stora besvikelse stod det klart för snart två månader sen att Grand Theft Auto VI inte körs i högre framerate till den 44% mer kraftfulla...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/gta-vi-pa-ps5-pro-erbjuder-ray-tracing-skuggor/</guid>
@@ -337,13 +344,6 @@
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/11/MV5BM2I1NzVlZjktZmQ1MC00Njc4LWJlZWItYzYyMDdiY2VmYmY0XkEyXkFqcGc%40._V1_-768x403.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Säga vad man vill om Disneys senaste Star Wars-trilogi, men den knöt ihop alla trådar den introducerade – på gott och ont. Sin vana trogen har...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/adam-driver-om-att-spela-kylo-ren-igen-det-skeppet-har-seglat/</guid>
       <enclosure url="https://missil.se/wp-content/uploads/2026/11/MV5BM2I1NzVlZjktZmQ1MC00Njc4LWJlZWItYzYyMDdiY2VmYmY0XkEyXkFqcGc%40._V1_-768x403.webp" length="0" type="image/webp"/>
-    </item>
-    <item>
-      <title>EA:s Saudi-ägare siktar på att köpa delar av Unity Software</title>
-      <link>https://missil.se/nyheter/saudiarabiens-pif-siktar-pa-att-kopa-delar-av-unity-software/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/11/thumb-768x539.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Spelbranschen har under längre tid sett Saudiarabiens inflytande (och stora pengapung) krypa allt högre i spelhierarkin, bit för bit. Statens...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/saudiarabiens-pif-siktar-pa-att-kopa-delar-av-unity-software/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/11/thumb-768x539.webp" length="0" type="image/webp"/>
     </item>
   </channel>
 </rss>
