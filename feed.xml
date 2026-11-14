@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sv</language>
-    <lastBuildDate>Sat, 14 Nov 2026 14:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 19:24:19 +0000</lastBuildDate>
+    <item>
+      <title>Super Meat Boy Again+ har utannonserats</title>
+      <link>https://missil.se/nyheter/mer-kottande-super-meat-boy-again-utannonserat/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/11/ss_e6579d30aae3e80fce2094387f562402701bbcb6.1920x1080-2-768x546.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Är du sugen på mer kött? Vilken tur, för Team Meat har utannonserat Super Meat Boy Again+ och beskrivs av utvecklarna som ”allt du kommer ihåg...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/mer-kottande-super-meat-boy-again-utannonserat/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/11/ss_e6579d30aae3e80fce2094387f562402701bbcb6.1920x1080-2-768x546.webp" length="0" type="image/webp"/>
+    </item>
     <item>
       <title>Jubileums-Xboxen tog slut på sekunder, nu kostar den 50 000 kronor</title>
       <link>https://missil.se/nyheter/jubileums-xboxen-tog-slut-pa-sekunder-nu-kostar-den-50-000-kronor/</link>
@@ -337,13 +344,6 @@
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/11/mega-man-legends-2_3-768x432.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;15 år efter att Mega Man Legends 3 lades ned har serien plötsligt dykt upp igen på en kanadensisk produktionslista hos ACTRA Toronto – ett...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/nytt-mega-man-pa-gang-mystiskt-projekt-dyker-upp-i-kanada/</guid>
       <enclosure url="https://missil.se/wp-content/uploads/2026/11/mega-man-legends-2_3-768x432.webp" length="0" type="image/webp"/>
-    </item>
-    <item>
-      <title>Big Walk-studion använde AI ”sparsamt” till spelets kod – kan missa pris på IGF</title>
-      <link>https://missil.se/nyheter/big-walk-studion-anvande-ai-sparsamt-till-spelets-kod-kan-missa-pris-pa-igf/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/10/BigWalk_Screenshot_May25_01-768x432.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;House House använde generativ AI ”sparsamt” för att reda ut buggar och andra tekniska problem inför lanseringen av sitt dundermysiga...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/big-walk-studion-anvande-ai-sparsamt-till-spelets-kod-kan-missa-pris-pa-igf/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/10/BigWalk_Screenshot_May25_01-768x432.webp" length="0" type="image/webp"/>
     </item>
   </channel>
 </rss>
