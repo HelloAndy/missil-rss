@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sv</language>
-    <lastBuildDate>Sun, 15 Nov 2026 22:37:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 02:37:49 +0000</lastBuildDate>
+    <item>
+      <title>Grand Theft Auto VI: The Album – Här är alla låtarna</title>
+      <link>https://missil.se/nyheter/grand-theft-auto-vi-the-album-har-ar-alla-latarna/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/11/Jason_Lucia_Rooftop_landscape-1-768x558.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Det återstår nu endast fyra ynka dygn innan det mest efterlängtade, mest påkostade och mest förhandsbokade spelet genom alla tider rullas ut på...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/grand-theft-auto-vi-the-album-har-ar-alla-latarna/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/11/Jason_Lucia_Rooftop_landscape-1-768x558.webp" length="0" type="image/webp"/>
+    </item>
     <item>
       <title>Rockstar vill uppmuntra till empati och medkänsla i GTA VI</title>
       <link>https://missil.se/nyheter/rockstar-vill-uppmuntra-till-empati-och-medkansla-i-gta-vi/</link>
@@ -337,13 +344,6 @@
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/11/hydra-768x440.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Det är snart tre år sen nu som Skydance Games och Uncharted-producenten Amy Hennig utannonserade filmlicensspelet Marvel 1943: Rise of Hydra och en...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/marvel-1943-rise-of-hydra-ar-en-interaktiv-film/</guid>
       <enclosure url="https://missil.se/wp-content/uploads/2026/11/hydra-768x440.webp" length="0" type="image/webp"/>
-    </item>
-    <item>
-      <title>Nvidias styrelse vill tydligen kicka VD:n Jensen Huang</title>
-      <link>https://missil.se/nyheter/nvidias-styrelse-vill-tydligen-kicka-vdn-jensen-huang/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/11/Skarmavbild-2026-11-12-kl.-02.22.43.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Ingen har såklart undgått oljudet från techgiganten Nvidias håll den gångna veckan där det pågått en del skumraskgrejor, minst sagt. Under måndagen...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/nvidias-styrelse-vill-tydligen-kicka-vdn-jensen-huang/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/11/Skarmavbild-2026-11-12-kl.-02.22.43.png" length="0" type="image/png"/>
     </item>
   </channel>
 </rss>
