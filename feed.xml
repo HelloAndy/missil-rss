@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>sv</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:24:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:24:20 +0000</lastBuildDate>
+    <item>
+      <title>Rockstar har släppt GTA VI-kartan som 4K-fil som du kan ladda hem</title>
+      <link>https://missil.se/nyheter/rockstar-har-slappt-hela-gta-vi-kartan-och-den-ar-enorm/</link>
+      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/06/mega-2-1787856672031-scaled-1-768x432.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Har du precis som större delen av redaktionen redan tillbringat ett antal timmar med att irra runt i GTA VI och försöka få någon sorts överblick över...&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://missil.se/nyheter/rockstar-har-slappt-hela-gta-vi-kartan-och-den-ar-enorm/</guid>
+      <enclosure url="https://missil.se/wp-content/uploads/2026/06/mega-2-1787856672031-scaled-1-768x432.webp" length="0" type="image/webp"/>
+    </item>
     <item>
       <title>Soundtracket till GTA VI blir franska duon Justice första och sista</title>
       <link>https://missil.se/nyheter/soundtracket-till-gta-vi-blir-franska-duon-justice-forsta-och-sista/</link>
@@ -337,13 +344,6 @@
       <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/11/HXRieCjWUAAQQBK-768x432.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Nu återstår det bara ett par ynka dygn innan det äntligen, efter 13 långa år av väntan, är dags för Grand Theft Auto VI och inför detta rullar...&lt;/p&gt;</description>
       <guid isPermaLink="false">https://missil.se/nyheter/det-dynamiska-vadret-i-gta-vi-visas-upp-i-nya-screenshots/</guid>
       <enclosure url="https://missil.se/wp-content/uploads/2026/11/HXRieCjWUAAQQBK-768x432.webp" length="0" type="image/webp"/>
-    </item>
-    <item>
-      <title>Ny Cyberpunk 2077-mod låter det ösregna i Night City</title>
-      <link>https://missil.se/nyheter/ny-mod-later-det-osregna-i-night-city/</link>
-      <description>&lt;p&gt;&lt;img src="https://missil.se/wp-content/uploads/2026/07/ss_8640d9db74f7cad714f6ecfb0e1aceaa3f887e58.1920x1080-768x432.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Som om Night City inte redan var tillräckligt dystert. Nu kan du dessutom bli ordentligt genomblöt. Åtminstone rent visuellt. En ny mod till...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://missil.se/nyheter/ny-mod-later-det-osregna-i-night-city/</guid>
-      <enclosure url="https://missil.se/wp-content/uploads/2026/07/ss_8640d9db74f7cad714f6ecfb0e1aceaa3f887e58.1920x1080-768x432.webp" length="0" type="image/webp"/>
     </item>
   </channel>
 </rss>
